@@ -1,0 +1,13 @@
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.exe
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.deps.json
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.runtimeconfig.json
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.runtimeconfig.dev.json
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.dll
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\bin\Debug\netcoreapp3.1\StringReversal.pdb
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.csprojAssemblyReference.cache
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.dll
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.pdb
+C:\Users\Mohammad\source\repos\StringReversal\StringReversal\obj\Debug\netcoreapp3.1\StringReversal.genruntimeconfig.cache
