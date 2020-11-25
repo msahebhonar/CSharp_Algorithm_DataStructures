@@ -1,2 +1,1 @@
-# CSharp_Algorithm_DataStructures
- 
+# CSharp_Algorithms
