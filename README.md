@@ -1,2 +1,2 @@
 # CSharp_Algorithms
-www.msahebhonar.com
+msahebhonar.com/CSharp/Algorithms
