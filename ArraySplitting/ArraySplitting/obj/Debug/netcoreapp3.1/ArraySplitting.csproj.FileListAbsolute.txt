@@ -1,0 +1,13 @@
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.exe
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.deps.json
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.runtimeconfig.json
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.runtimeconfig.dev.json
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.dll
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\bin\Debug\netcoreapp3.1\ArraySplitting.pdb
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.csprojAssemblyReference.cache
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.AssemblyInfoInputs.cache
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.AssemblyInfo.cs
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.csproj.CoreCompileInputs.cache
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.dll
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.pdb
+D:\Repos\CSharp_Algorithm\ArraySplitting\ArraySplitting\obj\Debug\netcoreapp3.1\ArraySplitting.genruntimeconfig.cache
